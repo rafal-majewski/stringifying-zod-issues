@@ -131,6 +131,18 @@ npm run test:check
 
 to perform testing for all tests.
 
+##### Unit
+
+Unit tests are such that they don't setup any external dependencies before running.
+
+Run
+
+```
+npm run test:check:unit
+```
+
+to perform testing for unit tests.
+
 ### TypeScript
 
 [TypeScript](https://www.typescriptlang.org) is used for development.
