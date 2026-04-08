@@ -7,6 +7,7 @@
 	"bugs": {
 		"url": "https://github.com/rafal-majewski/stringifying-zod-issues/issues"
 	},
+	"description": "A stringifying Zod issues library for better error messages.",
 	"devDependencies": {
 		"@commitlint/cli": "20.5.0",
 		"@commitlint/types": "20.5.0",
@@ -29,6 +30,7 @@
 		"node": ">=24.14.0",
 		"npm": ">=11.9.0"
 	},
+	"exports": "./source/index.ts",
 	"homepage": "https://github.com/rafal-majewski/stringifying-zod-issues#readme",
 	"name": "stringifying-zod-issues",
 	"repository": {
