@@ -21,6 +21,7 @@
 		"eslint-plugin-unused-imports": "4.4.1",
 		"expect": "30.3.0",
 		"jiti": "2.6.1",
+		"loader-of-typescript-for-node-js": "2.0.0",
 		"prettier": "3.8.1",
 		"release-it": "19.2.4",
 		"typescript": "5.9.3",
